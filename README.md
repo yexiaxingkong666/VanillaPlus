@@ -8,7 +8,21 @@ Select language:
 
 ​	繁体中文 (Translate)
 
-[TOC]
+Menu:
+
+​	[About this repository](https://github.com/yexiaxingkong666/VanillaPlus#about-this-repository)
+
+​	[About VanillaPlus](https://github.com/yexiaxingkong666/VanillaPlus#about-vanillaplus)
+
+​		[What is VanillaPlus?](https://github.com/yexiaxingkong666/VanillaPlus?tab=readme-ov-file#what-is-vanillaplus)
+
+​		[Who is VanillaPlus's author?](https://github.com/yexiaxingkong666/VanillaPlus?tab=readme-ov-file#who-is-vanillapluss-author)
+
+​		[What is the role of VanillaPlus?](https://github.com/yexiaxingkong666/VanillaPlus?tab=readme-ov-file#what-is-the-role-of-vanillaplus)
+
+​		[Is it a large datapack? Can my computer run it?](https://github.com/yexiaxingkong666/VanillaPlus?tab=readme-ov-file#is-it-a-large-datapack-can-my-computer-run-it)
+
+​		[Which versions it supports?](https://github.com/yexiaxingkong666/VanillaPlus?tab=readme-ov-file#which-versions-it-supports)
 
 ## About this repository
 
