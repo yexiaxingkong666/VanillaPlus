@@ -1,0 +1,20 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "xxx",
+        "xyx",
+        "xxx"
+    ],
+    "key":{
+        "x":{
+            "tag":"vanillaplus:logs"
+        },
+        "y":{
+            "item":"minecraft:red_dye"
+        }
+    },
+    "result":{
+        "item":"minecraft:crimson_stem",
+        "count":8
+    }
+}

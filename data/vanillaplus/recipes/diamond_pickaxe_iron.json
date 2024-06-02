@@ -1,0 +1,14 @@
+{
+    "type":"minecraft:smithing",
+    "base":{
+        "item":"minecraft:iron_pickaxe"
+    },
+    "addition":{
+        "item":"minecraft:diamond",
+        "count":6
+    },
+    "result":{
+        "item":"minecraft:diamond_pickaxe",
+        "count":1
+    }
+}
